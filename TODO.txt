@@ -1,0 +1,9 @@
+KEY:
+! means important.
+~ means in progress.
+> means completed.
+X means rejected.
+
+TODO
+- Fix Rotation when right-clicked
+- Condense Right click action into single Block Java file.

@@ -1,0 +1,36 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "airlock_console:blocks/console_top_bottom",
+    "up": "airlock_console:blocks/console_top_bottom",
+    "north": "airlock_console:blocks/console_stable_depress",
+    "east": "airlock_console:blocks/console_side",
+    "south": "airlock_console:blocks/console_rear",
+    "west": "airlock_console:blocks/console_side",
+  },
+  "elements": [
+      {
+          "from": [
+              3,
+              0,
+              0,
+          ],
+          "to": [
+              14,
+              2,
+              16
+          ],
+          "faces": {
+              "down": {
+                  "texture": "#down"
+              "up": {
+                  "texture": "#up"
+              "south": {
+                  "texture": "#south"
+              "north": {
+                  "texture": "#north"
+              "east": {
+                  "texture": "#east"
+              "west": {
+                  "texture": "#west"
+}
